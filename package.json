@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Hisashi Kato",
+	"description": "test free code",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
